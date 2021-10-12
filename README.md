@@ -1,2 +1,2 @@
-# firstt
-first project
+# Ruby Demo
+Ruby project demonistration
